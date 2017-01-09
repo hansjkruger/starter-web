@@ -8,6 +8,8 @@ In this example we showcase the basic commands of GIT and GITHUB
 
 ## Purpose
 
+Purpose is to show what can be done with GIT
+
 ## Deployment
 
 ## How to contribute
