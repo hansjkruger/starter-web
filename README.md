@@ -12,4 +12,8 @@ Purpose is to show what can be done with GIT
 
 ## Deployment
 
+Todo...
+
 ## How to contribute
+
+do some work!
