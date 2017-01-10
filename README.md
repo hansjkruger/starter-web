@@ -17,3 +17,7 @@ Todo...
 ## How to contribute
 
 do some work!
+
+### Copyright
+
+2017 Git training
