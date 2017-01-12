@@ -16,7 +16,7 @@ Todo...
 
 ## How to contribute
 
-do some work!
+do some proper work this time!
 
 ### Copyright
 
