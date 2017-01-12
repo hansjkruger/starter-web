@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hans Kruger hans.j.kruger@gmail.com
 
 # THANKS
 
